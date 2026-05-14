@@ -1,10 +1,14 @@
 title: Мій сайт
-description: Документація та сторінки
-theme: just-the-docs
+description: Документація сайту
+
+remote_theme: just-the-docs/just-the-docs
 
 url: https://vitapl.github.io
 baseurl: /firstmark
 
+search_enabled: true
 color_scheme: light
 
-search_enabled: true
+aux_links:
+  GitHub:
+    - https://github.com/твій-логін
