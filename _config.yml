@@ -1,1 +1,10 @@
-theme: jekyll-theme-leap-day
+title: Мій сайт
+description: Документація та сторінки
+theme: just-the-docs
+
+url: https://vitapl.github.io
+baseurl: /назва-репозиторію
+
+color_scheme: light
+
+search_enabled: true
