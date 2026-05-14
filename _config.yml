@@ -3,7 +3,7 @@ description: Документація та сторінки
 theme: just-the-docs
 
 url: https://vitapl.github.io
-baseurl: /назва-репозиторію
+baseurl: /firstmark
 
 color_scheme: light
 
